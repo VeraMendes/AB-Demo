@@ -1,2 +1,2 @@
 # AB-Demo
-Simple front-end A/B experiment - [view it live!](https://github.com/VeraMendes/AB-Demo/)
+Simple front-end A/B experiment - [view it live!](https://veramendes.github.io/AB-Demo/)
